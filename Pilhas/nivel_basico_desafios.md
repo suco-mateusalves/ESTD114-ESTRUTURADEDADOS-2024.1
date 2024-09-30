@@ -75,5 +75,3 @@
    # Entrada: 10
    # Saída esperada: "1010"
    ```
-
-Esses exercícios te ajudarão a praticar as operações básicas de uma pilha: empilhar, desempilhar, e verificar se está vazia, além de trabalhar com a lógica de aplicações simples usando pilhas. Se precisar de ajuda com algum exercício específico, é só me avisar!
