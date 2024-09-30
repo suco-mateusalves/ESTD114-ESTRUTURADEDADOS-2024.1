@@ -1,5 +1,3 @@
-Claro! Vou te ajudar a resolver cada um dos exercícios propostos. Vamos resolver um de cada vez.
-
 ### 1. **Empilhar e Desempilhar Números:**
 
 Aqui, vamos criar uma pilha e empilhar os números de 1 a 5 nela. Depois, desempilharemos esses números e exibiremos o resultado.
@@ -228,4 +226,3 @@ print(decimal_para_binario(numero_decimal))  # Esperado: "1010"
 1010
 ```
 
-Esses são os códigos para os exercícios propostos! Se precisar de mais alguma explicação ou ajuste, estou à disposição.
